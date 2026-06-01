@@ -1,0 +1,10 @@
+.auth-layout {
+  position: fixed;
+  inset: 0;
+  z-index: 20;
+  display: grid;
+  place-items: center;
+  width: 100%;
+  max-width: 100%;
+  padding: 12px;
+}
